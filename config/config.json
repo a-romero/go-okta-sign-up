@@ -1,0 +1,8 @@
+{
+  "graphql": {
+    "graphQLConnection": "<GraphQL_URL>",
+    "graphQLSecretPath": "<AWS_SM_GraphQL_Secret_Path>"
+  },
+  "clientTable": "Client",
+  "userTable": "User"
+}
